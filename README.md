@@ -1,5 +1,4 @@
-# 
-This project identifies and evaluates several yoga movements.
+# learning and evalue Taekwondo Lesson 1.
 
 ## Project Description
 
